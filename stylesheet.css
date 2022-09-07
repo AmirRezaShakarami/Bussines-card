@@ -1,0 +1,11 @@
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+
+.info {
+    position: absolute;
+    z-index: 100;
+    padding: 20px;
+}
